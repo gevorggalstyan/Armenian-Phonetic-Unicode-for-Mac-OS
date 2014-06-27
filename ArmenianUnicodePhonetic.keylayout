@@ -14,12 +14,6 @@
         <layout first="206" last="207" modifiers="Modifiers" mapSet="JIS"/>
     </layouts>
     <modifierMap id="Modifiers" defaultIndex="0">
-        <keyMapSelect mapIndex="0">
-            <modifier keys=""/>
-        </keyMapSelect>
-        <keyMapSelect mapIndex="1">
-            <modifier keys="anyShift caps?"/>
-        </keyMapSelect>
         <keyMapSelect mapIndex="2">
             <modifier keys="anyOption"/>
         </keyMapSelect>
