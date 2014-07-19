@@ -5,7 +5,7 @@ Armenian Phonetic Unicode Key Layout for Mac OS
 
 #Installation
 
-1. Place ArmenianUnicodePhonetic.keylayout to /Library/Keyboard Layouts/
+1. Place *.keylayout to /Library/Keyboard Layouts/
 
 #Using
 
