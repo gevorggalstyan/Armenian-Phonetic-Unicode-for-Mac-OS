@@ -13,6 +13,3 @@ Armenian Phonetic Unicode Key Layout for Mac OS
 2. Press '+' sign at the bottom of the list
 3. Choose 'Others' and 'Armenian Unicode Phonetic'
 4. Press 'Add'
-
-#Known Issues
-Does not work for functional keys like cmd+C or cmd+V etc.
