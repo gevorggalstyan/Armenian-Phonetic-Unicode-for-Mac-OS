@@ -7,7 +7,7 @@ Armenian Phonetic Unicode Key Layout for Mac OS
 
 1. Place *.keylayout to /Library/Keyboard Layouts/
 
-#Using
+#Usage
 
 1. Go to System Preferences > Keyboard > Input Sources
 2. Press '+' sign at the bottom of the list
