@@ -1,6 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="126" id="-28164" name="Armenian Phonetic Unicode" maxout="1">
+<!-- Author: Gevorg A. Galstyan -->
+<keyboard group="126" id="-28164" name="Հայերեն" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="a8"/>
     </layouts>
@@ -84,7 +85,7 @@
             <key code="38" output="յ"/>
             <key code="39" output="՛"/>
             <key code="40" output="կ"/>
-            <key code="41" output="։"/>
+            <key code="41" output=";"/>
             <key code="42" output="շ"/>
             <key code="43" output=","/>
             <key code="44" output="/"/>
@@ -197,7 +198,7 @@
             <key code="38" output="Յ"/>
             <key code="39" output="&#x0027;"/>
             <key code="40" output="Կ"/>
-            <key code="41" output=":"/>
+            <key code="41" output="։"/>
             <key code="42" output="Շ"/>
             <key code="43" output="«"/>
             <key code="44" output="՞"/>
@@ -310,7 +311,7 @@
             <key code="38" output="Յ"/>
             <key code="39" output="&#x0027;"/>
             <key code="40" output="Կ"/>
-            <key code="41" output=":"/>
+            <key code="41" output="։"/>
             <key code="42" output="Շ"/>
             <key code="43" output="«"/>
             <key code="44" output="՞"/>
