@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Place Armenian.keylayout to /Library/Keyboard Layouts/
+Copy `Armenian.keylayout` and `Armenian.icns` into `~/Library/Keyboard Layouts/`
 
 ## Usage
 
