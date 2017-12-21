@@ -1,13 +1,12 @@
-Armenian-Phonetic-Unicode-for-Mac-OS
-====================================
+# Armenian-Phonetic-Unicode-for-Mac-OS
 
-#Installation
+## Installation
 
-1. Place *.keylayout to /Library/Keyboard Layouts/
+1. Place Armenian.keylayout to /Library/Keyboard Layouts/
 
-#Usage
+## Usage
 
 1. Go to System Preferences > Keyboard > Input Sources
-2. Press '+' sign at the bottom of the list
-3. Choose 'Others' and 'Հայերեն' in that list
-4. Press 'Add'
+1. Press '+' sign at the bottom of the list
+1. Choose 'Others' and 'Հայերեն' in that list
+1. Press 'Add'
